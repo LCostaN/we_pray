@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "867001276113",
+    "firebase_url": "https://wepray-cec1c.firebaseio.com",
+    "project_id": "wepray-cec1c",
+    "storage_bucket": "wepray-cec1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867001276113:android:50b1b1be592562235097f0",
+        "android_client_info": {
+          "package_name": "br.com.amorimnantes.we_pray"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "867001276113-57digscu7mrtcskqouvafn84ib65r645.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5dCHW4aDWqpqUaOBwK_dbLFawmTN1s_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "867001276113-57digscu7mrtcskqouvafn84ib65r645.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
